@@ -1,6 +1,3 @@
-# Objeto del Repositiorio
-Este es el repositorio relativo al primer Data Project del Máster de Data Analytics de la promoción 2023-24. El grupo está compuesto por Stanislav, Adriana, Cristian, Alberto y Juan.
-
 # Índice
 - [Objeto del Repositiorio](#objeto-del-repositiorio)
 - [Índice](#índice)
